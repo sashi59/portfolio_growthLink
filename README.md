@@ -53,7 +53,7 @@ The **dist/** folder will contain the compiled production-ready files.
 ## 🌍 Deployment
 You can deploy the project using:
 
-### 🔹 **Vercel (Recommended)**
+### 🔹 **Vercel**
 ```bash
  npm install -g vercel
  vercel
